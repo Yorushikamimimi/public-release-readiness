@@ -1,0 +1,4 @@
+interface:
+  display_name: "开源前隐私与发布检查"
+  short_description: "分别核查公开文件、历史、媒体和发布产物，按证据给出 READY 或 HOLD"
+  default_prompt: "使用 $public-release-readiness，在已授权范围内审查指定公开候选并给出 READY 或 HOLD。"
